@@ -1,7 +1,7 @@
 
 # NGINX Docker Setup
 
-This project aims to fulfill the requirements of the SimilarWeb Production Engineer Junior position home assignment. It involves setting up an NGINX server running inside a Docker container, with the capability to update the server's configuration without downtime.
+This project involves setting up an NGINX server running inside a Docker container, with the capability to update the server's configuration without downtime.
 
 ## Features
 
